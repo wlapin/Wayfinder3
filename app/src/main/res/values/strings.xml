@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Wayfinder3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Profile</string>
+    <string name="menu_gallery">Location</string>
+    <string name="menu_slideshow">Floorplan</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_login">login</string>
+    <string name="login">Login</string>
+    <string name="email_log">Email</string>
+    <string name="password">Password</string>
+    <string name="remeber_me">Remeber Me</string>
+    <string name="loginbttn">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="title_activity_floorplan">Floorplan</string>
+    <string name="search_for_a_floorplan">Search for a Floorplan</string>
+    <string name="title_activity_location">Location</string>
+    <string name="search_for_a_person_or_place">Search for a Person or Place</string>
+    <string name="title_activity_help">Help</string>
+    <string name="help_">Help</string>
+    <string name="click_this_link_to_go_to_help_page">Click this link to go to help page:</string>
+    <string name="https_www_senseagent_com">https://www.senseagent.com</string>
+    <string name="title_activity_about">About</string>
+    <string name="about_us">About Us</string>
+    <string name="senseagent_is_brought_to_you_by_levaux_levaux_created_senseagent_as_a_smart_building_platform_to_give_owners_and_occupiers_of_buildings_fine_grained_insights_and_more_control_over_their_environment_while_at_the_same_time_bringing_lower_costs_traditional_buildings_use_disparate_wired_systems_for_building_services_levaux_built_a_platform_using_massively_scalable_iot_asynchronous_communication_framework_to_enable_rapid_deployment_of_low_latency_highly_secure_endpoints_to_interface_to_building_services_not_only_does_this_mean_lower_capital_outlay_it_also_means_lower_operational_costs_senseagent_sensors_use_machine_learning_to_automatically_control_the_building_to_optimize_the_operational_savings_and_create_intelligent_environments">SenseAgent is brought to you by Levaux. Levaux created SenseAgent as a smart building platform to give owners and occupiers of buildings fine-grained insights and more control over their environment. While at the same time bringing lower costs. Traditional buildings use disparate wired systems for building services. Levaux built a platform using massively scalable IoT asynchronous communication framework to enable rapid deployment of low latency, highly secure endpoints to interface to building services. Not only does this mean lower capital outlay, it also means lower operational costs. SenseAgent sensors use machine learning to automatically control the building to optimize the operational savings and create intelligent environments.</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="beacon_id">Beacon ID</string>
+    <string name="support_levaux_com">support@levaux.com</string>
+    <string name="support_contact_email">Support Contact Email:</string>
+</resources>
